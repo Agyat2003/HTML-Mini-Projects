@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Youtube clone</title>
+        <link rel="icon" href="yo.png">
+        <base href="/media/Images/">
+    </head>
+    <body>
+        <!-- nevbar start here-->
+        <table width="100%">
+            <tr align="center">
+                <td>
+                    <img src="youtube_logo.png" width="100px">
+                </td>
+                <td>
+                    <form action=""></form>
+                    <input type="text" placeholder="search" size="70">
+                    </form>
+                </td>
+                <td>
+                    <img src="mic.png" width="30px"  >
+                </td>
+                <td>
+                    <img src="video.png" width="30px">
+                </td>
+                <td>
+                    <img src="bell.png" width="30px">
+                </td>
+                <td>
+                    <img src="profile.png" width="30px">
+                </td>
+            </tr>
+           
+        </table>
+        <br>
+        <table width="100%">
+            <tr align="center">
+                <td> <a href="#"> All</a></td>
+                <td> <a href="#">Bollywood</a></td>
+                <td> <a href="">Music</a></td>
+                <td> <a href="">javascript</a></td>
+                <td> <a href="">Html</a></td>
+                <td> <a href="">Songs</a></td>
+                <td> <a href="">React</a></td>
+            </tr>
+        </table>
+        <br>
+
+        <table>
+            <tr>
+                <td>
+                    <video src="/media/Video/ram_siya_ram.mp4" width="300px" controls muted autoplay></video>
+                    <img src="t-series.png" width="20px">
+                    <span><strong>Ram Siya Ram</strong></span>
+                    <br><span>T-serise Hindi</span> <br>
+                    <span>33 million views-12 day ago </span>
+                </td>
+                <td>
+                    <video src="/media/Video/kaise_hua.mp4"  width="300px" controls muted autoplay></video>
+                    <img src="t-series.png" width="20px">
+                    <span><strong>Kaise hua</strong></span>
+                    <br><span>T-serise Hindi</span> <br>
+                    <span>50 million views-19 day ago </span>
+                </td>
+                <td>
+                    <video src="/media/Video/chahun_me_ya_na.mp4"  width="300px" controls muted autoplay></video>
+                    <img src="t-series.png" width="20px">
+                    <span><strong>Chahun me ya na</strong></span>
+                    <br><span>T-serise Hindi</span> <br>
+                    <span>19 million views-22 day ago </span>
+                </td>
+                <td>
+                    <video src="/media/Video/saiyaan.mp4"  width="300px" controls muted autoplay></video>
+                    <img src="t-series.png" width="20px">
+                    <span><strong>Saiyaan</strong></span>
+                    <br><span>T-serise Hindi</span> <br>
+                    <span>38 million views-12 day ago </span>
+                </td>
+            </tr>
+        </table>
+        <table>
+            <tr>
+                <td>
+                    <video src="/media/Video/shayad.mp4" width="300px" controls muted autoplay></video>
+                    <img src="Zee_Music_Company.png" width="20px">
+                    <span><strong>Shayad</strong></span>
+                    <br><span>T-serise Hindi</span> <br>
+                    <span>11 million views-19 day ago </span>
+                </td>
+                <td>
+                    <video src="/media/Video/apna_bana_le.mp4" width="300px" controls muted autoplay></video>
+                    <img src="Zee_Music_Company.png" width="20px">
+                    <span><strong>Apna bana le</strong></span>
+                    <br><span>T-serise Hindi</span> <br>
+                    <span>98 million views-28 day ago </span>
+                </td>
+                <td>
+                    <video src="/media/Video/BAARISHEIN.mp4" width="300px" controls muted autoplay></video>
+                    <img src="Zee_Music_Company.png" width="20px">
+                    <span><strong>Baarishein</strong></span>
+                    <br><span>T-serise Hindi</span> <br>
+                    <span>45 million views-9 day ago </span>
+                </td>
+                <td>
+                    <video src="/media/Video/JADUGAR.mp4" width="300px" controls muted autoplay></video>
+                    <img src="Zee_Music_Company.png" width="20px">
+                    <span><strong>Jadugar</strong></span>
+                    <br><span>T-serise Hindi</span> <br>
+                    <span>59 million views-15 day ago </span>
+                </td>
+            </tr>
+        </table>
+        <table>
+            <tr>
+                <td>
+                    <video src="/media/Video/COMETHRU.mp4" width="300px" controls muted autoplay></video>
+                    <img src="MUSIC_LOGO.jpeg" width="20px">
+                    <span><strong>Comethru</strong></span>
+                    <br><span>T-serise Hindi</span> <br>
+                    <span>59 million views-15 day ago </span>
+                </td>
+                <td>
+                    <video src="/media/Video/LOVELY.mp4" width="300px" controls muted autoplay></video>
+                    <img src="MUSIC_LOGO.jpeg" width="20px">
+                    <span><strong>Lovely</strong></span>
+                    <br><span>T-serise Hindi</span> <br>
+                    <span>59 million views-15 day ago </span>
+                </td>
+                <td>
+                    <video src="/media/Video/MORAL OF THE STORY.mp4" width="300px" controls muted autoplay></video>
+                    <img src="MUSIC_LOGO.jpeg" width="20px">
+                    <span><strong>Moral of the Story</strong></span>
+                    <br><span>T-serise Hindi</span> <br>
+                    <span>59 million views-15 day ago </span>
+                </td>
+                <td>
+                    <video src="/media/Video/DRUNK TEST.mp4" width="300px" controls muted autoplay></video>
+                    <img src="MUSIC_LOGO.jpeg" width="20px">
+                    <span><strong>Drunk Test</strong></span>
+                    <br><span>T-serise Hindi</span> <br>
+                    <span>59 million views-15 day ago </span>
+                </td>
+              </tr>
+        </table>
+        <br>
+        <hr>
+        <h1>
+            SHORTS
+        </h1>
+        <br>
+        <table>
+            <tr>
+                <td>
+                    <video src="/media/reels/ramji_reel.mp4" width="200px" height="400px" controls muted autoplay></video>
+                </td>
+              
+                <td>
+                    <video src="/media/reels/ramji_reel.mp4" width="200px" height="400px" controls muted autoplay></video>
+                </td>
+                <td>
+                    <video src="/media/reels/ramji_reel.mp4" width="200px" height="400px" controls muted autoplay></video>
+                </td>
+                <td>
+                    <video src="/media/reels/ramji_reel.mp4" width="200px" height="400px" controls muted autoplay></video>
+                </td>
+                <td>
+                    <video src="/media/reels/ramji_reel.mp4" width="200px" height="400px" controls muted autoplay></video>
+                </td>
+                <td>
+                    <video src="/media/reels/ramji_reel.mp4" width="200px" height="400px" controls muted autoplay></video>
+                </td>
+             </tr>
+        </table>
+
+    </body>
+
+</html>
