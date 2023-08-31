@@ -68,6 +68,19 @@
          </tr>
        
        </table>
+       <table bgcolor="black" width="100%" color="black">
+        <hr width="100%">
+        <tr >
+            <th><a href=""><h4>Email</h4></a></th>
+            <th><a href=""><h4>Contact</h4></a></th>
+            <th><a href=""><h4>Address</h4></a></th>
+        </tr>
+        <tr align="center" >
+            <td >abc123@gmail.com</td>
+            <td>8877665544</td>
+            <td>Bhopal(485771)</td>
+        </tr>
+       </table>
     
            
             
